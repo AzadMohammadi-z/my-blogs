@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "B Araz";
+  src: url("../fonts/BAraz.eot");
+  src: url("../fonts/BAraz.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BAraz.woff2") format("woff2"),
+    url("../fonts/BAraz.woff") format("woff"),
+    url("../fonts/BAraz.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
